@@ -1,2 +1,2 @@
 # nazfuf
-NAZFUF Festival's all technological source code. 
+NAZPUF Festival's all technological source code. 
